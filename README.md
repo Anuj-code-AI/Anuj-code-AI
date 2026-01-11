@@ -1,10 +1,10 @@
 # 💫 About Me:
-👋 Hi, I’m @AnujChourasiya
-🐍 I’m passionate about building software using Python and Java
-🧠 I enjoy working on backend systems, problem solving, and system design
-🌱 I’m currently improving my Java, backend architecture, and DSA
-💻 I love building practical, real-world applications and backend services
-🤝 I’m open to collaborations, internships, and backend-focused projects
+👋 Hi, I’m @AnujChourasiya<br>
+🐍 I’m passionate about building software using Python and Java<br>
+🧠 I enjoy working on backend systems, problem solving, and system design<br>
+🌱 I’m currently improving my Java, backend architecture, and DSA<br>
+💻 I love building practical, real-world applications and backend services<br>
+🤝 I’m open to collaborations, internships, and backend-focused projects<br>
 📫 Reach me at: anujchourasiya@gmail.com
 
 
