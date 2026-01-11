@@ -1,5 +1,11 @@
 # 💫 About Me:
-👋 Hi, I'm Anuj Chourasiya<br><br>I am a developer with a strong foundation in Python and growing expertise in Java, focused on building practical, real-world software systems rather than toy projects.<br><br>I enjoy working on backend systems, problem-solving, and product-oriented development. My primary interest lies in designing systems that are reliable, scalable, and actually useful — not just academic demos.<br><br>🚀 What I work on<br><br>🐍 Python (core strength) — scripting, backend, automation, system logic<br><br>☕ Java — backend development, Spring and Spring Boot, DSA, and system-oriented programming<br><br>🌐 Backend & APIs — Flask, Spring boot, basic web systems, real-time features<br><br>🧠 Problem Solving — DSA, algorithmic thinking, clean implementations<br><br>🏗️ Building end-to-end functional prototypes<br><br>💡 My mindset<br><br>I prefer strong fundamentals over shallow frameworks<br><br>I focus on clean logic, maintainable code, and real usability<br><br>I believe good engineering is about reliability, not hype<br><br>🛠️ Tech Stack<br><br>Languages: Python, Java, C++<br><br>Backend: Flask, basic REST APIs, WebSockets<br><br>Tools: Git, GitHub, VS Code, Intelij<br><br>Other: System design basics, deployment workflows<br><br>📌 Current Focus<br><br>Becoming very strong in backend engineering<br><br>Going deeper into Java + system design<br><br>Improving DSA and problem-solving for interviews<br><br>Building solid, production-style projects
+👋 Hi, I’m @AnujChourasiya
+🐍 I’m passionate about building software using Python and Java
+🧠 I enjoy working on backend systems, problem solving, and system design
+🌱 I’m currently improving my Java, backend architecture, and DSA
+💻 I love building practical, real-world applications and backend services
+🤝 I’m open to collaborations, internships, and backend-focused projects
+📫 Reach me at: anujchourasiya@gmail.com
 
 
 ## 🌐 Socials:
