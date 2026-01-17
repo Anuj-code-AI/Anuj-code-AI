@@ -5,7 +5,8 @@
 🌱 I’m currently improving my Java, backend architecture, and DSA<br>
 💻 I love building practical, real-world applications and backend services<br>
 🤝 I’m open to collaborations, internships, and backend-focused projects<br>
-📫 Reach me at: anujchourasiya@gmail.com
+📫 Reach me at: achourasiyaanuj@gmail.com
+
 
 
 ## 🌐 Socials:
